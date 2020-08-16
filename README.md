@@ -1,6 +1,6 @@
 # joke_generator
-using  gpt-2 to generate jokes.
+using  gpt-2 to generate jokes and pick-up-lines 🤭.
 # Dataset
-The model is finetuned on a dataset created by scraping Reddit Jokes.
+The models are finetuned on  dataset created by scraping Reddit .
 # References
 The gpt-2 finetune model is taken from <a href="https://github.com/nshepperd/gpt-2">here</a>.
